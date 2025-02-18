@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2025-02-18">
+    <creator>NetworkX 3.4.2</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="Estação A" label="Estação A" />
+      <node id="Estação B" label="Estação B" />
+      <node id="Estação C" label="Estação C" />
+      <node id="Estação D" label="Estação D" />
+      <node id="Estação E" label="Estação E" />
+      <node id="Estação F" label="Estação F" />
+      <node id="Estação G" label="Estação G" />
+      <node id="Estação H" label="Estação H" />
+      <node id="Estação I" label="Estação I" />
+      <node id="Estação J" label="Estação J" />
+      <node id="Estação k" label="Estação k" />
+      <node id="Estação L" label="Estação L" />
+      <node id="Estação M" label="Estação M" />
+      <node id="Estação N" label="Estação N" />
+      <node id="Estação O" label="Estação O" />
+      <node id="Estação P" label="Estação P" />
+      <node id="Estação Q" label="Estação Q" />
+      <node id="Estação R" label="Estação R" />
+    </nodes>
+    <edges>
+      <edge source="Estação A" target="Estação B" id="0" />
+      <edge source="Estação A" target="Estação C" id="1" />
+      <edge source="Estação A" target="Estação k" id="2" />
+      <edge source="Estação B" target="Estação D" id="3" />
+      <edge source="Estação B" target="Estação L" id="4" />
+      <edge source="Estação C" target="Estação D" id="5" />
+      <edge source="Estação C" target="Estação M" id="6" />
+      <edge source="Estação D" target="Estação E" id="7" />
+      <edge source="Estação D" target="Estação N" id="8" />
+      <edge source="Estação E" target="Estação F" id="9" />
+      <edge source="Estação E" target="Estação O" id="10" />
+      <edge source="Estação F" target="Estação G" id="11" />
+      <edge source="Estação F" target="Estação P" id="12" />
+      <edge source="Estação G" target="Estação H" id="13" />
+      <edge source="Estação G" target="Estação Q" id="14" />
+      <edge source="Estação H" target="Estação I" id="15" />
+      <edge source="Estação H" target="Estação R" id="16" />
+      <edge source="Estação I" target="Estação J" id="17" />
+      <edge source="Estação J" target="Estação L" id="18" />
+    </edges>
+  </graph>
+</gexf>
