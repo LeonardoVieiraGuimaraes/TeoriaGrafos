@@ -80,8 +80,4 @@ Se preferir, você pode rodar os notebooks diretamente no [Google Colab](https:/
   ```
 - Se encontrar erros de exportação para PDF, instale o LaTeX (MikTeX no Windows ou texlive no Linux).
 
----
 
-## Contato
-
-Dúvidas ou sugestões? Fique à vontade para abrir uma issue ou contribuir com o projeto!
